@@ -1,14 +1,13 @@
 # Diya Joshi
 
 [![Diya GitHub stats](https://github-readme-stats.vercel.app/api?username=Diya-Joshi130&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaJoshi&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Joshi130&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiyaJoshi&repo=Starbucks_Website&theme=tokyonight)](https://github.com/Diya-Joshi130/Starbucks_Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=Double_Slit-Interference-Simulation&theme=tokyonight)](https://github.com/samsuy0304/Double_Slit-Interference-Simulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Diya-Joshi130&repo=Starbucks_Website&theme=tokyonight)](https://github.com/Diya-Joshi130/Starbucks_Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Diya-Joshi130&repo=Amazon_Website&theme=tokyonight)](https://github.com/Diya-Joshi130/Amazon_Website)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=VNA_CMS&theme=tokyonight)](https://github.com/samsuy0304/VNA_CMS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsuy0304&repo=DeepNeural_Numpy&theme=tokyonight)](https://github.com/samsuy0304/DeepNeural_Numpy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Diya-Joshi130&repo=Teachers_Day_2.0&theme=tokyonight)](https://github.com/Diya-Joshi130/Teachers_Day_2.0)
 <!--
 **diya-J-79/diya-J-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
